@@ -1,7 +1,7 @@
 title: cvless
 description: Jekyll theme for a beautiful online CV
-baseurl: "https://gkanellakis.github.io/repogk4"
-url: https://gkanellakis.github.io/repogk4
+baseurl: "/repogk4"
+url: https://gkanellakis.github.io
 
 theme: cvless
 
